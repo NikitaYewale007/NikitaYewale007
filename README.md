@@ -6,13 +6,14 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- ⚡ About me [A Stoic dreamer with a knack for code and a quiet determination to bring ideas to life](A Stoic dreamer with a knack for code and a quiet determination to bring ideas to life)
+- ⚡ About me: A Stoic dreamer with a knack for code and a quiet determination to bring ideas to life
 
-- 📍 Location: [India](India)
-
-- 💬 Ask me about **C++,JAVA,SQL,OOPS,HTML,CSS,JAVASCRIPT**
+-  💬 Ask me about **C++,JAVA,SQL,OOPS,HTML,CSS,JAVASCRIPT**
 
 - 📫 Reach me at **yewalenikita2002@gmail.com**
+  
+- 📍 Location: [India](India)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
